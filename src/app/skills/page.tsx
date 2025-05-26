@@ -22,18 +22,18 @@ const skillPage = () => {
       name: "TypeScript",
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
     },
-    {
-      name: "PHP",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg",
-    },
-    {
-      name: "Python",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
-    },
-    {
-      name: "Node.js",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg",
-    },
+    // {
+    //   name: "PHP",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg",
+    // },
+    // {
+    //   name: "Python",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    // },
+    // {
+    //   name: "Node.js",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg",
+    // },
   ];
 
   const frameworks = [
@@ -80,22 +80,22 @@ const skillPage = () => {
       name: "VS Code",
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
     },
-    {
-      name: "Docker",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
-    },
-    {
-      name: "Firebase",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
-    },
-    {
-      name: "MongoDB",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
-    },
-    {
-      name: "PostgreSQL",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
-    },
+    // {
+    //   name: "Docker",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+    // },
+    // {
+    //   name: "Firebase",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+    // },
+    // {
+    //   name: "MongoDB",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    // },
+    // {
+    //   name: "PostgreSQL",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+    // },
   ];
 
   return (
